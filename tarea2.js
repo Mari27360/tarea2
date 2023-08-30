@@ -1,0 +1,1 @@
+gradient(5).mask(voronoi(),3,0.5).invert([0,1]).pixelate(20,20).out(o0)
