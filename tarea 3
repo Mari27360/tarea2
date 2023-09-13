@@ -1,0 +1,2 @@
+shape().color(5,0.6,0.2).modulateRotate(osc(40), 1, 2).out()
+shape(4,0.8).color(6,0.1,0.2).modulateScrollY(osc(40),0.1,0.02).out()
